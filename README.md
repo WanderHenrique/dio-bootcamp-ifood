@@ -1,5 +1,5 @@
-# Repositório de projeto dio-bootcamp-ifood
-Projeto iFood
+#Projeto DIO-bootcamp-ifood
+Repositório criado para desafio de projeto.
 
-##Links Úteis
-[Sintaxe Basica Markdown] (https://www.markdownguide.org/basic-syntax/) 
+## Links Úteis
+[Sintaxe Basica Markdown](https://www.markdownguide.org/basic-syntax/) 
